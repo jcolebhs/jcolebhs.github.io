@@ -1,0 +1,41 @@
+body {
+	background-color:#008bd6;
+}
+
+h1 {
+ 	font-family: 'Courgette', cursive;	
+ 	border-bottom: 5px solid #000	
+	padding-bottom: 50px;
+}
+
+p    {
+ font-family: 'Courgette', cursive;	
+}
+
+#about-me-wrap {
+    background-color: #F1DAC4;
+    padding: 50px;
+    width: 60%;
+    margin: 100px auto
+}
+#profile-wrap {
+	width: 40%;
+	margin-right: 10%;
+	float: left;
+}	
+#bio-wrap {
+	width: 50%;
+	float: right;
+}
+.clear{
+	clear: both;
+}
+ul.profile-social-links {
+	padding: 0;
+}
+
+ul.profile-social-links li{
+	list-style-type: none;
+	display: inline;
+	margin-right: 15px;
+}
